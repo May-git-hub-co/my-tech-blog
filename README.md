@@ -22,3 +22,19 @@ During the investigation, it was identified that the authentication tokens were 
 
 - ✅ Root cause identified
 - 🔄 Configuration update in progress
+
+
+## Resolution
+
+The token expiration was updated from **15 seconds** to **60 minutes**.
+
+### Validation
+
+- ✅ Login successful with valid credentials.
+- ✅ Tested on Android and iOS.
+- ✅ Validated with new and existing users.
+
+### Status
+
+- ✅ Incident resolved
+- ✅ QA validation completed

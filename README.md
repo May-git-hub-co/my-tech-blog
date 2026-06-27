@@ -39,4 +39,4 @@ The token expiration was updated from **15 seconds** to **60 minutes**.
 - ✅ Incident resolved
 - ✅ QA validation completed
 
-  > Nota: Cambio realizado para demostrar el flujo de Pull Request en GitHub.
+- > Nota: Cambio realizado para demostrar el flujo de Pull Request en GitHub.
